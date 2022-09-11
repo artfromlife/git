@@ -1,5 +1,5 @@
 Git is a version control system.
-Git is free sofrwore.
+Git is a free sofrwore.
 add.
 set.
 why no change.
